@@ -1,0 +1,14 @@
+{
+    "name": "write-books-sample",
+    "introduction": "这是一本书的框架",
+    "title": "",
+    "keywords": "github gitbook wiki",
+    "description": "",
+    "cover": "",
+    "path": {
+        "content": "",
+        "images": "",
+        "readme": "",
+        "toc": ""
+    }
+}
